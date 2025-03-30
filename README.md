@@ -7,5 +7,6 @@ FILE 1 : [DATA CLEANING BY MYSQL - COVID PORTFOLIO PROJECT.sql](http://github.co
 * Extracted 4 sub .csv files
   
 1. [Table1_GlobalNumbers.csv](Table1_GlobalNumbers.csv)
+2. [Table2_DeathsInContinent.csv](Table2_DeathsInContinent.csv)
 
 
