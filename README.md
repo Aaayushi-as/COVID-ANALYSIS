@@ -21,5 +21,11 @@ FILE 2 : [Data Cleaning by Python - Covid data cleaning.ipynb](Covid-data-cleani
 
 You can find these datasets here- [Divided.covid.datasets.zip](Divided.covid.datasets.zip)
 
+FILE 3: [Covid Dashboard.twbx](Covid Dashboard (3).twbx)
+* By using the 4 csv files extracted by SQL, I've visualized them on a single dashboard. Explore and play around with it. Thank you!
+* Glimpse to that dashboard->
+  ![image](https://github.com/user-attachments/assets/f9a88943-f535-4677-9f9f-6ff69e98b700)
+
+
 
 
