@@ -18,7 +18,7 @@ FILE 2 : [Data Cleaning by Python - Covid data cleaning.ipynb](Covid-data-cleani
 1.CovidDeaths.csv
 2.CovidVaccinations.csv
 
-You can find these datasets here-
+You can find these datasets here- [Divided.covid.datasets.zip](Divided.covid.datasets.zip)
 
 
 
