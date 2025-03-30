@@ -15,7 +15,7 @@ FILE 2 : [Data Cleaning by Python - Covid data cleaning.ipynb](Covid-data-cleani
 * In this file, I've dropped some unnecessary fields from the .csv file by using pandas.
 * Divided the original dataset into two .csv files:
   
-1.CovidDeaths.csv
+1.CovidDeaths.csv /n
 2.CovidVaccinations.csv
 
 You can find these datasets here- [Divided.covid.datasets.zip](Divided.covid.datasets.zip)
