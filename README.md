@@ -1,2 +1,5 @@
 # COVID-ANALYSIS
 COVID data analysis involves studying data on cases, deaths, recoveries, and vaccinations to understand the spread and impact of the virus. It helps in tracking trends, making informed decisions, and improving responses to future health crises.
+PROJECT - COVID 19
+
+FILE 1 :  Data Cleaning by MySQL -COVID PORTFOLIO PROJECT.sql
