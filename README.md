@@ -11,4 +11,6 @@ FILE 1 : [DATA CLEANING BY MYSQL - COVID PORTFOLIO PROJECT.sql](http://github.co
 3. [Table3_HighestInfectionRateComparedPopulation.csv](Table3_HighestInfectionRateComparedPopulation.csv)
 4. [Table4_HighestInfectionRateComparedPopulationpt2.csv](Table4_HighestInfectionRateComparedPopulationpt2.csv)
 
+FILE 2 : [Data Cleaning by Python - Covid data cleaning.ipynb](Covid-data-cleaning.ipynb)
+
 
